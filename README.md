@@ -3,10 +3,10 @@ Cards Maching.
 
 ## How to download the game.
 
-Use the following link to download the game as a Zip file.
+- Use the following link to download the game as a Zip file.
 https://github.com/Nusaibah-Ali/Memory_Game.git
-Extract the folder.
-In the folder open the Index and the game will start.
+- Extract the folder.
+- In the folder open the Index and the game will start.
 
 
 ## Instructions: 
