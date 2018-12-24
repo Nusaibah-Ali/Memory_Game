@@ -1,7 +1,7 @@
-##Memory Game
+# Memory Game
 Cards Maching.
 
-##How to download the game.
+## How to download the game.
 
 Use the following link to download the game as a Zip file.
 https://github.com/Nusaibah-Ali/Memory_Game.git
@@ -9,7 +9,7 @@ Extract the folder.
 In the folder open the Index and the game will start.
 
 
-##Instructions: 
+## Instructions: 
 This game is about matching 8 pairs of cards,
 Try to guess the identical cards correctly to win the game.
 The timer will start the moment you start flipping the cards.
