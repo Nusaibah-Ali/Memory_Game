@@ -18,4 +18,4 @@ If you reache 16 moves you will get 2 stars only, and if you reach 24 moves you 
 When the user finish the challenge, a modal appears with a congratulation message, a game stats, and restart button .
 If you click the restart button, the game restarts by resetting the cards, the timmer , the moves, and stars to their default values.
 
-Enjoy.
+### Enjoy.
